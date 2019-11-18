@@ -12,6 +12,7 @@ INSTRUCTIONS: Create a webpage with the following text - Hello world, this is my
     </head>
     
     <body>
-	</body>
+    	<p> Hello world, this is my first webpage </p>
+    </body>
 
 </html>
